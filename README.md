@@ -7,3 +7,7 @@ W. Avy likes your analysis but he wants more inoformation about temperature tren
 * Deliverable 1: Determine the Summary Statistics for June
 * Deliberable 2: Determine the Summary Statistics for December
 * Deliverable 3: A written report for the statistical analysis (README.md)
+
+## Findings
+
+### June Weather Summary
