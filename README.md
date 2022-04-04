@@ -21,7 +21,7 @@ From our analysis we can draw the following conclusions...
 ## Summary
 Based upon our statistical analysis of the weather patterns of Oahu, Hi for the months of June and December we can conclude there is little variance between the two months temperatures, therefore it would give us a strong indication that W. Avy's plan to open a surf and ice cream shop would be a viable idea. 
 
-### Comparison June vs. December Temperatures
+## Comparison June vs. December Temperatures
 
 ![image](https://user-images.githubusercontent.com/93171738/161461312-b6488ce4-4eb5-4f9a-870f-d86e117c3e49.png) ![image](https://user-images.githubusercontent.com/93171738/161461348-bfd86ece-401d-4256-9509-17eaf93e2971.png)
 
