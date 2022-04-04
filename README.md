@@ -29,9 +29,9 @@ From the images above we can conclude...
 
 * June temperature are (on average) 3 degrees warmer than temperatures in December - 74 degrees vs. 71 degrees
 * The minimum temperature between June and December varies by 8 degrees - 64 degrees vs. 56 degrees
-* The maximum temperature between the two months vareis by 2 degrees - 85 degrees vs. 83 degrees
+* The maximum temperature between the two months varies by 2 degrees - 85 degrees vs. 83 degrees
 
 ### Additional Queries
-An additonal querey we would want to run to verify the validity of the business idea would be to see how much avg. rainfall the island recieves on an annual basis as this can affect the weather patterns. 
+An additional query we would want to run to verify the validity of the business idea would be to see how much avg. rainfall the island receives on an annual basis as this can affect the weather patterns. 
 
-Also, since it is not uncommon for hurricanes to periodically hit the area we may also want to consider checking for how often these phenomenon are expected to make landfall on the island as this will certainly lead to lost revenue due to store closure. 
+Also, since it is not uncommon for hurricanes to periodically hit the area, we may also want to consider checking for how often these phenomenon are expected to make landfall on the island as this will certainly lead to lost revenue due to store closure. 
