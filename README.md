@@ -18,6 +18,8 @@ From our analysis we can draw the following conclusions...
 * The Minimum temperture between June and December has a variability of 8 degrees
 * The Maximum temperture between June and December has a variabliity of only 2 degrees
 
-## Findings
+## Summary
+Based upon our statistical analysis of the weather patterns of Oahu, Hi for the months of June and December we can conclude there is little variance between the two months temperatures, therefore it would give us a strong indication that W. Avy's plan to open a surf and ice cream shop would be a viable idea. 
 
-### June Weather Summary
+### Comparison June vs. December Temperatures
+
