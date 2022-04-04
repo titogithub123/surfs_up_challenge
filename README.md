@@ -25,5 +25,10 @@ Based upon our statistical analysis of the weather patterns of Oahu, Hi for the 
 
 ![image](https://user-images.githubusercontent.com/93171738/161461312-b6488ce4-4eb5-4f9a-870f-d86e117c3e49.png) ![image](https://user-images.githubusercontent.com/93171738/161461348-bfd86ece-401d-4256-9509-17eaf93e2971.png)
 
+From the images above we can conclude...
+
+* June temperature are (on average) 3 degrees warmer than temperatures in December - 74 degrees vs. 71 degrees
+* The minimum temperature between June and December varies by 8 degrees - 64 degrees vs. 56 degrees
+* The maximum temperature between the two months vareis by 2 degrees - 85 degrees vs. 83 degrees
 
 
