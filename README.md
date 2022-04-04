@@ -23,3 +23,7 @@ Based upon our statistical analysis of the weather patterns of Oahu, Hi for the 
 
 ### Comparison June vs. December Temperatures
 
+![image](https://user-images.githubusercontent.com/93171738/161461312-b6488ce4-4eb5-4f9a-870f-d86e117c3e49.png) ![image](https://user-images.githubusercontent.com/93171738/161461348-bfd86ece-401d-4256-9509-17eaf93e2971.png)
+
+
+
